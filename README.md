@@ -1,4 +1,7 @@
-# # Interact2Hack 2026 - Datamine 🚀
+<p align="center">
+  <img src="https://imgur.com/KF6WeYl" width="100%">
+</p>
+# # Interact2Hack 2026 - Datamine 
 ## Proyecto: Antes de que se vayan — Scoring Predictivo
 
 ![Status](https://img.shields.io/badge/Hackathon-Interact2Hack--2026-darkblue?style=for-the-badge)
@@ -6,8 +9,6 @@
 ![Model](https://img.shields.io/badge/Target-Churn%20Prediction-green?style=for-the-badge)
 
 > Solución integral para la detección temprana de abandono de comerciantes en la plataforma **Deuna!**.
-
-# Interact2Hack 2026 - Datamine
 
 ## Descripción
 Este proyecto tiene como base resolver el problema propuesto por deuna!, construir un modelo predictivo donde se debe identificar el alto riesgo de abandono en los próximos 30 días. 
