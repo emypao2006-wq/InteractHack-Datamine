@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/KF6WeYl" width="100%">
+  <img src="https://imgur.com/KF6WeYl](https://i.imgur.com/KF6WeYl.jpeg" width="100%">
 </p>
 # # Interact2Hack 2026 - Datamine 
 ## Proyecto: Antes de que se vayan — Scoring Predictivo
