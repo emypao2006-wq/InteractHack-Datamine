@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/KF6WeYl.jpeg" width="50%">
+  <img src="https://i.imgur.com/KF6WeYl.jpeg" width="100%">
 </p>
 
 # # Interact2Hack 2026 - Datamine 
